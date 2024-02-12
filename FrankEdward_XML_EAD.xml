@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE EAD PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN">
+
+<ead>
+    
+<eadheader>
+        <filedesc>
+            <titlestmt>
+                <titleproper>XML/EAD exercise from Knowledge Organization DhDk 23/24</titleproper>
+                <author>Processed by Lucrezia Pograri; machine-readable finding aid created by Lucrezia Pograri</author>
+            </titlestmt>
+            <publicationstmt>
+                <date>&copy; 2024</date>
+                <p>University of Bologna. All rights reserved.</p>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>
+                        <subject source="cdl">Stereoscopes</subject>
+                        <subject source="cdl">Photographic prints</subject>
+                        <subject source="cdl">Stereographs</subject>
+                        <subject source="cdl">Earthquakes -- California -- San Francisco -- Photographs.</subject>
+                        <subject source="cdl">Yosemite Valley (Calif.) -- Photographs.</subject>
+                        <subject source="cdl">United States -- Photographs.</subject>
+                        <subject source="cdl">China -- Photographs.</subject>
+                        <subject source="cdl">California -- Photographs.</subject>
+                    </p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Machine-readable finding aid derived from OAC (Online Archive of California). Date of source:
+            <date>2024</date></creation>
+            <langusage>Description is in <language>English.</language>
+            </langusage>
+        </profiledesc>
+</eadheader>
+<dsc> <!-- equal to <archdesc> -->
+    <c level="fond">
+        <did>
+            <unitid>MS.M.020</unitid>
+            <unittitle>Edward R. Frank stereograph collection</unittitle>
+            <unitdate type="inclusive">1877-1913</unitdate>
+            <unitdate type="bulk">1897-1910</unitdate>
+            <subjects>
+                <subject source="cdl">Stereoscopes</subject>
+                <subject source="cdl">Photographic prints</subject>
+                <subject source="cdl">Stereographs</subject>
+                <subject source="cdl">Earthquakes -- California -- San Francisco -- Photographs.</subject>
+                <subject source="cdl">Yosemite Valley (Calif.) -- Photographs.</subject>
+                <subject source="cdl">United States -- Photographs.</subject>
+                <subject source="cdl">China -- Photographs.</subject>
+                <subject source="cdl">California -- Photographs.</subject>
+            </subjects>
+            <physdesc>
+                <extent>1.2 Linear Feet</extent>
+                <genreform>3 boxes</genreform>
+            </physdesc>
+                <origination>
+                    <corpname>Frank, Edward R.</corpname>
+                </origination>
+            <scopecontent>
+                <p>This collection contains 273 stereographs of various places and subjects collected by Edward R. Frank. Images of China and Japan represent the majority of stereographs in this collection. The bulk of United States stereographs are of Arizona, California, New York, and Pennsylvania including images of the Grand Canyon, Yosemite Valley, San Francisco (views of 1906 earthquake aftermath), Niagara Falls, and Gettysburg Battlefield. Other images include people, animals, floral arrangements, and the 1893 World's Columbian Exposition in Chicago. Two stereoscopes (i.e., stereograph viewers) are also included in this collection.</p>
+            </scopecontent>
+        </did>
+        <bioghist type="abstract">
+            <p>This collection contains 273 stereographs of various places and subjects collected by Edward R. Frank. Images of China and Japan represent the majority of stereographs in this collection. The bulk of United States stereographs are of Arizona, California, New York, and Pennsylvania including images of the Grand Canyon, Yosemite Valley, San Francisco (views of 1906 earthquake aftermath), Niagara Falls, and Gettysburg Battlefield. Other images include people, animals, floral arrangements, and the 1893 World's Columbian Exposition in Chicago. Two stereoscopes (i.e., stereograph viewers) are also included in this collection.</p> 
+        </bioghist>
+    </c>
+</dsc>
+</ead>
