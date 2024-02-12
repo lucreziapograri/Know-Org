@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<frbr:Record xmlns:frbr="http://www.frbr.org/ns/frbr#">
+    <frbr:work>
+        <frbr:title type="work">Twelfth Night</frbr:title> <!-- 1 AREA-->
+        <frbr:author type="statement of responsibility">
+            <frbr:name type="author" authority="loc" authorityURI="http://id.loc.gov/authorities/names/n78095332">William Shakespeare</frbr:name>
+            <frbr:role type="statement of responsibility">author</frbr:role>
+        </frbr:author>
+    </frbr:work>
+    <frbr:expression>
+        <frbr:title type="expression">Twelfth Night</frbr:title>
+        <frbr:language>eng</frbr:language>
+    </frbr:expression>
+    <frbr:manifestation>
+        <frbr:publication>
+            <frbr:publisher>Oxford University Press</frbr:publisher> <!-- 4 AREA-->
+            <frbr:place>Oxford</frbr:place>
+            <frbr:date>1987</frbr:date>
+        </frbr:publication>
+        <frbr:physicalDescription> <!-- 5 AREA-->
+            <frbr:form>printed book</frbr:form> <!-- 0 AREA-->
+            <frbr:extent>159 p. ; 17 cm.</frbr:extent>
+        </frbr:physicalDescription>
+        <frbr:series>(The new Clarendon Shakespeare)</frbr:series> <!-- 6 AREA-->
+        <notes> <!-- 7 AREA-->
+            <subject authority="loc" authorityURI="http://id.loc.gov/authorities/subjects"> 
+                <topic authorityURI="https://id.loc.gov/authorities/subjects/sh85039316.html">Drama</topic>
+            </subject>
+        </notes>
+    </frbr:manifestation>
+    <frbr:item>
+        <frbr:editor type="statement of responsibility">
+            <frbr:name type="editor">J.C. Dent. (edited by)</frbr:name>
+            <frbr:role type="statement of responsibility">editor</frbr:role>
+        </frbr:editor>
+        <frbr:recordIdentifier> <!-- 8 AREA-->
+            <frbr:recordInfo> <!-- HOW TO DESCRIBE THE COLLOCATION AND IN GENERAL THE 8TH AREA-->
+                <frbr:identifier type="ISBN">0198319207</frbr:identifier>
+                <frbr:location>ANCONA - Biblioteca Comunale 'Benincasa' Shelfmark 132096 Collocation TORRE LIBR 46 I 00254</frbr:location>
+            </frbr:recordInfo>
+        </recordIdentifier>
+    </frbr:item>
+</frbr:Record>
